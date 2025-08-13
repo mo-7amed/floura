@@ -1,0 +1,51 @@
+{
+    "products": [
+    {
+      "id": 1,
+      "name": "بوكيه ورد احمر",
+      "images": [
+        "img/prouducts2.jpg",
+        "img/prouducts3.jpg",
+        "img/prouducts4.jpg"
+      ],
+      "price": "350 جنيه مصري",
+      "description": "بوكيه ورد احمر .",
+      "inStock": true,
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "بوكيه ورد أزرق",
+      "images": [
+        "img/prouducts1.jpg",
+        "img/prouducts5.jpg",
+        "img/prouducts6.jpg"
+      ],
+      "price": "550 جنيه مصري",
+      "description": "بوكيه ورد ازرق أنيق.",
+      "inStock": true,
+      "isNew": true
+    },
+    {
+      "id": 3,
+      "name": "بوكيه ورد أصفر",
+      "images": [
+        "img/prouducts7.jpg"
+      ],
+      "price": "250 جنيه مصري",
+      "description": "بوكيه ورد اصفر مميز وفاخر صغير الحجم.",
+      "inStock": true,
+      "isNew": true
+    }
+  ],
+  "categories": [
+    ""
+  ],
+          "storeInfo": {
+        "name": "Flora",
+        "description": "متخصصون فى صنع بوكيهات ورد ستان",
+                "phone": "0101415264",
+        "whatsapp": "0101415264",
+        "email": "arwae2394@gmail.com"
+  }
+}
